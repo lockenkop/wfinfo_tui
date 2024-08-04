@@ -1,0 +1,9 @@
+[project]
+
+name = "wfinfo-tui"
+authors = [{ name = "Jonas Fenchel", email = "locken.kop97@gmail.com" }]
+description = """\
+TerminalUI for wfinfo Relic Companion APP \
+"""
+requires-python = ">=3.8"
+version = '0.1'
